@@ -1,0 +1,53 @@
+
+.letra_1{
+	font-family: 'Alfa Slab One', cursive; 
+	font-size: 50pt;
+	font-weight: bold;
+	color: #060FC6;
+  font-style:italic;
+  font-weight: bold;
+  letter-spacing: 5px;
+  }
+
+.letra_2{
+  font-family: Arial;
+  font-size: 25pt;
+  font-weight: bold;
+  color: black;
+}
+
+.letra_3{
+  font-size: 20pt;
+  font-weight: bold;
+  color: black;
+}
+
+.letra_4{
+  line-height : 50px;
+  border-spacing: 50px;
+  font-style:italic;
+  font-weight:bold;
+  font-size:24px;
+  font-color:#ffffff;
+  font-family:'Helvetica'
+}
+
+.boton{    
+  display:inline-block;
+  width:40%;
+  padding:10px;
+  background: red;
+  text-align: center;
+  color:white;
+  font-size: 30px;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  border: 3px white;
+  border-radius: 15px;
+}
+
+.boton:hover{
+  color: purple;
+  box-shadow: 0px 0px 5px 5px purple;
+    
+}
